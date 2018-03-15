@@ -1,4 +1,3 @@
-// finger table header file
 #ifndef _FINGER_H
 #define _FINGER_H
 

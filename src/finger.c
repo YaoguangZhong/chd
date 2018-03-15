@@ -1,4 +1,3 @@
-/* finger table */
 #include "finger.h"
 
 Finger* finger_init(Node *node, int start) {
