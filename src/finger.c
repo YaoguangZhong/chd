@@ -1,4 +1,5 @@
 #include "finger.h"
+/* a test: randomly add something here. Ignroe this change! */
 
 Finger* finger_init(Node *node, int start) {
   Finger *finger = NULL;
